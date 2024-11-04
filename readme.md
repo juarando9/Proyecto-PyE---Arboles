@@ -1,8 +1,8 @@
 PROYECTO ESTADISTICA - ANALISIS DE DATOS ARBOLES CIUDAD UNIVERSITARIA DE MELENDEZ TOMADO DE LA ALCALDIA DE CALI
-Integrantes:
-Monica Cortés
-Ricardo Zapata
-Manuel Parra
-Julieta Arteta 
+#Integrantes:
+#Monica Cortés
+#Ricardo Zapata
+#Manuel Parra
+#Julieta Arteta 
 
-2024
+#2024
