@@ -6,3 +6,8 @@ Integrantes:
 - Julieta Arteta 
 
 #2024
+
+## Construir el dashboard con:
+```bash 
+jupyter nbconvert --to flex dashboard.ipynb
+```
