@@ -1,0 +1,52 @@
+# Entornos virtuales
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de configuración de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de log y de depuración
+*.log
+*.out
+*.err
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de Python que no deben ser compartidos
+.env
+*.env
+
+# Archivos de dependencia
+pip-wheel-metadata/
+*.egg-info/
+*.eggs/
+
+# Carpetas creadas por IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales y de caché
+*.tmp
+*.bak
+*.swp
+*.swo
+*.~*
+
+# Archivos exportados o generados
+*.h5
+*.sqlite3
+*.db
+
+# Archivos de despliegue (opcional, según tu entorno)
+build/
+dist/
+*.egg
+*.manifest
+*.spec
